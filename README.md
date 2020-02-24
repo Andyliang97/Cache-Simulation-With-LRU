@@ -1,0 +1,2 @@
+# Cache-Simulation-With-LRU
+Write a program to simulate caches of different configurations. Make the following assumptions about all the caches we simulate. 1. The replacement strategy is LRU (Least Recently Used), if needed. 2. The cache is initially empty. 3. In write-through, the processor stalls until the data is written to the memory before proceeding. That is, the memory and cache are always consistent.
